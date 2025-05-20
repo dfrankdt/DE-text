@@ -6,7 +6,7 @@
 
   <article xml:id="syllabus">
     <title>Course Name Syllabus</title>
-    <subtitle>Prefix 101</subtitle>
+    <subtitle>Math 347</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
@@ -19,13 +19,13 @@
           <li>
             <title>Course Description</title>
             <p>
-              Basic concepts of logic, sets, partial order and other relations, and functions. Basic concepts of mathematics (definitions, proofs, sets, functions, and relations) with a focus on discrete structures: integers, bits, strings, trees, and graphs. Propositional logic, Boolean algebra, and predicate logic. Mathematical induction and recursion. Invariants and algorithmic correctness. Recurrences and asymptotic growth analysis. Fundamentals of counting.
+              Here's a course description.
             </p>
           </li>
           <li>
             <title>Credits</title>
             <p>
-              3
+              4
             </p>
           </li>
           <li>
